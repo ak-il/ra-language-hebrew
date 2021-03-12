@@ -12,7 +12,7 @@ export default {
             create: 'צור',
             edit: 'ערוך',
             delete: 'מחק',
-            edit: 'יצא',
+            export: 'יצא',
             list: 'רשימה',
             refresh: 'רענן',
             remove_filter: 'הסר סינון',
